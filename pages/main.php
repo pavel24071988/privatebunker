@@ -27,15 +27,15 @@
 
 <div class="scheme-block" id="protection">
     <div class="scheme-block-images">
-            <img src="images/scheme1.jpg" class="scheme-block-images-item">
-            <img src="images/scheme2.jpg" class="scheme-block-images-item electricity" style="display: none;">
-            <img src="images/scheme3.jpg" class="scheme-block-images-item communication" style="display: none;">
-            <img src="images/scheme2.jpg" class="scheme-block-images-item camera" style="display: none;">
-            <img src="images/scheme5.jpg" class="scheme-block-images-item biometry" style="display: none;">
-            <img src="images/scheme6.jpg" class="scheme-block-images-item disguise" style="display: none;">
-            <img src="images/scheme7.jpg" class="scheme-block-images-item bomb" style="display: none;">
-            <img src="images/scheme8.jpg" class="scheme-block-images-item ventilation" style="display: none;">
-            <img src="images/scheme9.jpg" class="scheme-block-images-item laser" style="display: none;">
+            <img src="images/scheme1.png" class="scheme-block-images-item">
+            <img src="images/scheme2.png" class="scheme-block-images-item electricity" style="display: none;">
+            <img src="images/scheme3.png" class="scheme-block-images-item communication" style="display: none;">
+            <img src="images/scheme2.png" class="scheme-block-images-item camera" style="display: none;">
+            <img src="images/scheme5.png" class="scheme-block-images-item biometry" style="display: none;">
+            <img src="images/scheme6.png" class="scheme-block-images-item disguise" style="display: none;">
+            <img src="images/scheme7.png" class="scheme-block-images-item bomb" style="display: none;">
+            <img src="images/scheme8.png" class="scheme-block-images-item ventilation" style="display: none;">
+            <img src="images/scheme9.png" class="scheme-block-images-item laser" style="display: none;">
             <div class="logo-mini"></div>
     </div>
     <div class="scheme-categories clearfix">
