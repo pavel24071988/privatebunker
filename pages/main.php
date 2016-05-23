@@ -30,7 +30,7 @@
             <img src="images/scheme1.jpg" class="scheme-block-images-item">
             <img src="images/scheme2.jpg" class="scheme-block-images-item electricity" style="display: none;">
             <img src="images/scheme3.jpg" class="scheme-block-images-item communication" style="display: none;">
-            <img src="images/scheme2.jpg" class="scheme-block-images-item camera" style="display: none;">
+            <img src="images/scheme4.jpg" class="scheme-block-images-item camera" style="display: none;">
             <img src="images/scheme5.jpg" class="scheme-block-images-item biometry" style="display: none;">
             <img src="images/scheme6.jpg" class="scheme-block-images-item disguise" style="display: none;">
             <img src="images/scheme7.jpg" class="scheme-block-images-item bomb" style="display: none;">
